@@ -18,4 +18,4 @@ python3 main.py <video_set> <video1> <video2> [<video3> ...]
 
 ### Observação
 
-Os limiares utilizados para detectar opinião a partir dos valores magnitude e score da Google Cloud Natural Language API foram definidos em janeiro/2020 considerando a base de vídeos [link]
+Os limiares utilizados para detectar opinião a partir dos valores magnitude e score da Google Cloud Natural Language API foram definidos em janeiro/2020 considerando a base de vídeos https://github.com/tamires/base-de-videos
